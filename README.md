@@ -1,5 +1,6 @@
 SAMBITC : Learned preauthorization security implementation. Implemented the samein "sambitc/BlogMicroserviceMulti_V1" 
 with few addition i.e @PreAuthorize("#oauth2.clientHasRole('ROLE_USER') AND hasAuthority('ROLE_GUEST') ")
+=======================***********************************************===============================================
 
 
 
