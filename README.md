@@ -1,3 +1,8 @@
+SAMBITC : Learned preauthorization security implementation. Implemented the samein "sambitc/BlogMicroserviceMulti_V1" 
+with few addition i.e @PreAuthorize("#oauth2.clientHasRole('ROLE_USER') AND hasAuthority('ROLE_GUEST') ")
+
+
+
 [![Build Status](https://travis-ci.org/sqshq/PiggyMetrics.svg?branch=master)](https://travis-ci.org/sqshq/PiggyMetrics)
 [![codecov.io](https://codecov.io/github/sqshq/PiggyMetrics/coverage.svg?branch=master)](https://codecov.io/github/sqshq/PiggyMetrics?branch=master)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/sqshq/PiggyMetrics/blob/master/LICENCE)
