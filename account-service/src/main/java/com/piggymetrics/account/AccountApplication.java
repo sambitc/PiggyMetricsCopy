@@ -33,11 +33,12 @@ import org.springframework.security.oauth2.provider.token.ResourceServerTokenSer
 @Configuration
 public class AccountApplication extends ResourceServerConfigurerAdapter {
 
+	
 	@Autowired
 	private ResourceServerProperties sso;
 
 	public static void main(String[] args) {
-		SpringApplication.run(AccountApplication.class, args);
+		SpringApplication.run(AccountApplication.class, args );
 	}
 
 	@Bean
